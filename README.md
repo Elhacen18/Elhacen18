@@ -2,7 +2,7 @@
 I'm Elhacen Elmoustapha</h1>
 <h3 align="center">A passionate Software engineer(.Net) from United States</h3>
 
-- 🌱 I’m currently learning **.net(C#), Angular, SQL Server**
+- 🌱 I’m currently learning **.net(C#), Angular, SQL Server**, and more..
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
