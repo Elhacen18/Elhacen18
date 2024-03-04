@@ -20,6 +20,3 @@ I'm Elhacen Elmoustapha</h1>
 <img alt="my stat" align="left" width ="47%" src ="https://github-readme-stats.vercel.app/api?username=Elhacen18&show_icons=true&theme=transparent"/>
 
 <img alt="top langs" align="left" width ="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Elhacen18&layout=compact"/>
-
-
-<a href="https://u8views.com/github/Elhacen18"><img src="https://u8views.com/api/v1/github/profiles/56775091/views/day-week-month-total-count.svg"></a>
