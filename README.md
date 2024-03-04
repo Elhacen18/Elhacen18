@@ -18,4 +18,4 @@ I'm Elhacen Elmoustapha</h1>
 
 <img alt="my stat" src ="https://github-readme-stats.vercel.app/api?username=Elhacen18&show_icons=true&theme=transparent"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elhacen18&layout=compact)](https://github.com/Elhacen18/github-readme-stats)
+<img alt="top langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Elhacen18&layout=compact"/>
