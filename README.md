@@ -9,8 +9,6 @@ I'm Elhacen Elmoustapha</h1>
 - 🌱 Software Engineer focused on Full-Stack web development with C# (.NET), SQL Server, and Angular. Growing interest in QA & software testing. Recent MEng CS graduate exploring the intersection of data, quality, and modern web systems.
 
 <h3 align="left">Connect with me on:</h3>
-
-<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elhacen-elmoustapha-773b401a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elhacen-elmoustapha-773b401a3/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/elhacen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elhacen" height="30" width="40" /></a>
