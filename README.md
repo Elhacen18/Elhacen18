@@ -1,8 +1,6 @@
-<h1 align="center">Hello world :sunglasses:
-I'm Elhacen Elmoustapha</h1>
-<h3 align="center">A passionate Software engineer(.Net) from United States</h3>
 
-- 🌱 <h1 align="center">Hello world :sunglasses:
+
+<h1 align="center">Hello world :sunglasses:
 I'm Elhacen Elmoustapha</h1>
 <h3 align="center">A passionate Software engineer(.Net) from United States</h3>
 
