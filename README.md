@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello world :sunglasses:
 I'm Elhacen Elmoustapha</h1>
-<h3 align="center">A passionate Software engineer(.Net) from United States</h3>
+<h3 align="center">A passionate software developer (.Net) from United States</h3>
 
 - 🌱 Software Engineer focused on Full-Stack web development with C# (.NET), SQL Server, and Angular. Growing interest in QA & software testing. Recent MEng CS graduate exploring the intersection of data, quality, and modern web systems.
 
