@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello world :sunglasses:
+<h1 align="center">
 I'm Elhacen Elmoustapha</h1>
 <h3 align="center">A passionate software developer (.Net) from United States</h3>
 
